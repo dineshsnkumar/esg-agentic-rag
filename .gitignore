@@ -55,3 +55,4 @@ cl/
 output/
 data/
 .venv
+src/agents/esg_audit_db/
