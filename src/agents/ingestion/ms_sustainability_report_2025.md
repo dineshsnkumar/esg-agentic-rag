@@ -6,7 +6,6 @@
 
 # Microsoft
 
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -161,9 +160,6 @@ Appendix B - Endnotes 89
 
 www.microsoft.com/corporate-responsibility/sustainability/progress
 
-
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -175,9 +171,6 @@ www.microsoft.com/corporate-responsibility/sustainability/progress
 - How we work 08
 
 “We remain pragmatically optimistic because of the promise of new sustainability technologies, innovations in AI, and market solutions that are emerging which can accelerate progress across challenging sectors.”
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -202,8 +195,6 @@ At the heart of our approach is an understanding that sustainability is not simp
 
 — Melanie Nakagawa, Chief Sustainability Officer
 
-
-
 2025 Environmental Sustainability Report
 
 # Foreword continued
@@ -227,9 +218,6 @@ Improving operational efficiency and logistics:
 In FY24, among facilities that manufacture devices for Microsoft, we saw a tenfold increase over the previous year in transitions to 100% carbon-free electricity (CFE). This was accomplished, in part, by partnering with 3Degrees to launch the Supplier REach portal to support suppliers making their CFE transition. Our drive to reduce datacenter emissions extends to transforming the logistics operations of these facilities.
 
 We believe technology can be a powerful tool to address some of society’s toughest challenges, including environmental sustainability. As demand for AI and cloud services grows, we are advancing how we design, build, and operate our datacenters and campuses. Decarbonizing the built environment is a crucial element in this process. Through strategic partnerships and targeted initiatives, Microsoft continues to reduce emissions across transportation, warehousing, and the broader logistics supply chain, setting new benchmarks for operational efficiency and environmental impact. We adopted alternative fuels and electric vehicles to reduce emissions, collaborating with several leading logistics service providers (LSPs).
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -263,10 +251,7 @@ Chief Sustainability Officer
 
 DeadSL
 
-
-
-
-Overview            Microsoft sustainability          Carbon      Water Waste  Ecosystems  Customer sustainability  Global sustainability     Appendix                     2025 Environmental Sustainability Report              7
+Overview Microsoft sustainability Carbon Water Waste Ecosystems Customer sustainability Global sustainability Appendix 2025 Environmental Sustainability Report 7
 
 # Scaling impact
 
@@ -284,9 +269,7 @@ Overview            Microsoft sustainability          Carbon      Water Waste  E
 Achieved our target of 90.9% reuse and recycling of cloud hardware servers and components.
 
 All reported values are cumulative through 2024.
-*Values reported represent contracted water lifetime replenishment.
-
-
+\*Values reported represent contracted water lifetime replenishment.
 
 # 2025 Environmental Sustainability Report
 
@@ -312,8 +295,6 @@ Our sustainability work starts with taking account of our operational footprint.
 
 Accelerating progress through technology. Microsoft is committed to providing innovative technology to help build a more sustainable world. We’re working to empower our customers and partners across industries with Microsoft for Sustainability, by continuously innovating AI solutions that help accelerate climate technologies. We’re also advancing greener software and reducing carbon intensity to improve device sustainability, and helping organizations to measure and manage the health of the planet’s natural ecosystems with the Microsoft Planetary Computer.
 
-
-
 2025 Environmental Sustainability Report
 
 # Microsoft sustainability
@@ -328,9 +309,6 @@ Accelerating progress through technology. Microsoft is committed to providing in
 # Taking care of our own environmental footprint
 
 Our sustainability work starts with taking account of our operational footprint. This means reducing and even eliminating emissions related to our operational footprint across our campuses, datacenters, devices, software, and value chain. We conduct life cycle assessments across our operations, assets, and products, from design to building, usage, and end of life. We are committed to sharing our learnings, accelerating markets, scaling solutions across our value chain, and being transparent about our progress.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -362,8 +340,6 @@ Through this process, we identified three critical focus areas as we look to 203
 
 These focus areas are central to our strategy today. At Microsoft, we are continuously reassessing and adjusting our strategy to drive the highest impact toward our 2030 commitments and beyond.
 
-
-
 2025 Environmental Sustainability Report
 
 # Our approach continued
@@ -378,9 +354,6 @@ These focus areas are central to our strategy today. At Microsoft, we are contin
 |                                    |                                                                                                                                                                                                 |                                                                                                                                                               | Microsoft continues to work to scale carbon-free electricity markets across our supply chain and invest to decarbonize need-to-abate sectors, including steel, concrete, and other building materials used in our datacenters, as well as fuels.                                                                                                                                                                                                                                                                                          |
 | Expanding carbon-free electricity  | By 2030, 100% of our electricity consumption will be matched by zero carbon electricity purchases 100% of the time.                                                                             |                                                                                                                                                               | In 2024, we contracted an additional 19 GW of new renewable energy across 16 countries, further diversifying our energy portfolio. Microsoft also expanded into nuclear energy with the signing of our first large-scale nuclear energy PPA with the Crane Clean Energy Center in September 2024. This agreement will enable the restart of an 835-MW nuclear facility in Pennsylvania, retired in 2019, providing a significant supply of new, reliable, CFE to the PJM power grid—a critical energy region for Microsoft’s datacenters. |
 | Removing the rest of our emissions | Contracted carbon removal                                                                                                                                                                       | By 2030, Microsoft will remove more carbon than it emits. By 2050, we will remove an amount of carbon equivalent to all our historical operational emissions. | In FY24, we contracted an additional 2.8 million metric tons of carbon removal expected to be delivered toward FY30.³ In addition, we contracted 17.4 million metric tons that we expect to apply toward carbon negative goals after 2030 and/or our 2050 goal.                                                                                                                                                                                                                                                                           |
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -407,9 +380,6 @@ Retirements from avoided emissions: -3M
 Retirements from carbon removal: -6M
 
 Find out more in our Data Fact Sheet. Scope 2 and 3 emissions included in this chart are market-based. Scope 3 emissions are management’s criteria values.
-
-
-
 
 # Overview
 
@@ -463,9 +433,6 @@ Scope 2 and 3 emissions included in this chart are market-based.
 
 Scope 3 emissions are management’s criteria values.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -503,7 +470,6 @@ At Microsoft, we are redefining datacenter construction and operations to meet t
 
 In 2024, we launched our first mass timber datacenters, using strong, ultra-lightweight wood in a hybrid construction model that incorporates cross-laminated timber (CLT), steel, and concrete. This approach is projected to reduce the embodied carbon footprint of these new datacenters by 35% compared to conventional steel construction, and by 65% compared to typical precast concrete, by drastically reducing the reliance on traditional carbon-intensive materials.
 
-
 # 2025 Environmental Sustainability Report
 
 # Efficiency continued
@@ -530,8 +496,6 @@ At Microsoft, we are continually refining our approach to energy efficiency acro
 
 By comparing carbon emissions and water consumption across various technologies, LCA enables informed decision-making to optimize sustainable technology choices for each location. One of the key innovations that makes these advancements possible is the use of our life cycle assessment (LCA) tool to evaluate the environmental impacts of cooling and server infrastructure technologies.
 
-
-
 2025 Environmental Sustainability Report
 
 # Efficiency continued
@@ -557,8 +521,6 @@ In support of these targets for our suppliers, Microsoft is working in countries
 
 In transportation, Microsoft has adopted alternative fuels and electric vehicles to reduce emissions, collaborating with several leading logistics service providers (LSPs). Renewable diesel is now in use in Microsoft’s road freight operations in Europe and California, cutting emissions by 50% for these shipments while keeping existing equipment in use.
 
-
-
 2025 Environmental Sustainability Report
 
 # Efficiency continued
@@ -583,9 +545,6 @@ Across our global portfolio, we continue to implement energy efficiency measures
 
 To guide future improvements, we are conducting comprehensive facility audits across our portfolio, prioritizing locations with the highest energy use, to discover areas where we can further enhance energy efficiency.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Efficiency continued
@@ -607,8 +566,6 @@ LEED Gold Certified
 In 2024, Rare, a Microsoft-owned game studio, celebrated the opening of BarnX at its Twycross headquarters in the United Kingdom. Achieving LEED Gold certification, BarnX reflects high standards in energy efficiency, water conservation, and environmental design. BarnX incorporates innovative sustainability features, including a rainwater harvesting system, solar panels, and advanced HVAC technology, which significantly reduce carbon emissions and energy consumption.
 
 Locally sourced, sustainable building materials were prioritized throughout the construction process, further reducing embodied carbon and environmental impact. The design also enhances local biodiversity with native wildflower meadows and pollinator-friendly gardens.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -701,8 +658,6 @@ Microsoft is supporting community development in energy procurement. The rapid g
 
 These efforts included Mombak, a Brazilian reforestation company, unlocking new natural capital-oriented financial tools in the form of a $225 million outcome bond issued by the World Bank to help reforest the Brazilian Amazon.
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -752,8 +707,6 @@ Key examples include:
 
 Find out more in our Data Fact Sheet
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -798,7 +751,6 @@ While waste heat recovery holds significant promise, its effectiveness depends o
 
 Our contracts with ERW companies—Eion, Lithos, and Undo—are deploying groundbreaking science to explore ERW’s potential as a major contributor to high-durability carbon removal. These efforts highlight the importance of collaboration across suppliers, financiers, and other stakeholders to align investment and accelerate development of scalable solutions.
 
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -837,8 +789,6 @@ In Azure hardware, Makersite supported our successful transition from spend-base
 
 23
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -876,8 +826,6 @@ In FY24, Microsoft’s Devices team launched a fully automated data collection p
 By integrating this primary data into product environmental LCAs, Microsoft has increased the representativeness of assessments, with 70% of the carbon footprint for devices informed by primary data—a significant improvement over the typical 20% of primary data use in LCAs for laptops and tablets. These insights are driving actionable opportunities to reduce carbon in our supply chain. For example, supplier data has enabled Microsoft to better quantify and track the environmental impacts of individual hardware components, identify carbon hotspots, and prioritize reduction strategies across our global operations.
 
 However, LCAs can be time-consuming and labor-intensive, requiring detailed analysis of complex supply chains and product components. To address this, Microsoft is using AI to accelerate and enhance the LCA process, improving accuracy while significantly reducing the time required. By fostering confidence in EPD adoption, Microsoft is empowering partners to align with shared decarbonization goals and embed measurement into decision-making processes.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -922,8 +870,6 @@ To further support supplier decarbonization efforts, Microsoft Indirect Procurem
 
 Since 2022, Microsoft’s Devices Supplier Decarbonization program has built policies, procedures, data systems, and educational tools to align suppliers with our sustainability commitments. Over the past three years, this program has evolved to address the growing urgency of decarbonization, amplified by the introduction of the new Supplier Code of Conduct requirement to transition to 100% CFE by 2030.
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -964,8 +910,6 @@ We continue to refine our carbon removal strategy by signing bankable, multiyear
 # Driving datacenter innovation.
 
 With rapid cloud business growth, we are advancing datacenter sustainability by developing strategies to integrate novel low-carbon materials into HVAC units, incorporating low-carbon requirements for materials and equipment in datacenter construction into our contracts, and identifying opportunities to improve operational efficiency.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -1019,8 +963,6 @@ As we continue our work to be water positive by 2030, we are focusing on progres
 
 As we progress, our water positive strategy is evolving—integrating new ideas, technologies, and approaches to address global water challenges. A key challenge since setting our replenishment target in 2020 has been the limited availability of initiatives ready for investment and implementation in priority locations. To overcome this, we are building and scaling replenishment efforts by supporting projects through non-governmental organizations (NGOs) and pioneering first-of-their-kind initiatives with private sector partners. As of 2024, private sector projects accounted for 17% of our replenishment portfolio, reflecting our resolve to foster a diverse, collaborative ecosystem to achieve water sustainability.
 
-
-
 2025 Environmental Sustainability Report
 
 # Our approach continued
@@ -1032,9 +974,6 @@ As we progress, our water positive strategy is evolving—integrating new ideas,
 | Water positive               | Replenishing more water than we use by 2030                                                                                                                   | Over 100 million cubic meters of water replenishment volume | As we work to be water positive, we continue to scale our efforts to reduce water use across our operations, while increasing procurement from alternative sources and investing in innovative replenishment and access projects.              |
 | Increasing access to water   | We will provide 1.5 million people with access to clean water and sanitation services by 2030.                                                                | Over 1.5 million people with water access                   | In FY24, we added seven new projects, bringing our portfolio to 13 initiatives that when fully implemented will serve over 1.6 million people across Brazil, India, Indonesia, Mexico, Chile, the United States, Malaysia, Kenya, and Nigeria. |
 | Reducing our water intensity | We will make progress against our target to improve water use efficiency by 40% across our global, owned datacenter operations by 2030, from a 2022 baseline. | Improving water efficiency                                  | Since our baseline year of 2022, operational datacenters have achieved an 18% reduction in water intensity progressing towards our 2030 target to reduce water use intensity by 40%.                                                           |
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1081,8 +1020,6 @@ Since the program’s inception, we have contracted 76 replenishment programs in
 | FY24     | 25,530,485 |
 
 Find out more in our Data Fact Sheet. All historic values reported have been adjusted to exclude projects that are considered no longer viable. Projects become no longer viable due to a range of different factors such as unexpected changes in the conditions of the project site.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -1135,8 +1072,6 @@ Building a robust and effective portfolio. In FY24, we significantly expanded ou
 
 Learn more about our water access and replenishment projects here. We increased our water replenishment portfolio by more than 50% in FY24.
 
-
-
 2025 Environmental Sustainability Report
 
 # Advancing water replenishment continued
@@ -1174,8 +1109,6 @@ For example, in Madrid, Microsoft is funding Aganova to deploy advanced AI acros
 # Optimizing water use in hospitals
 
 In India, FluxGen Sustainable Technologies is using funding from Microsoft to help two charitable hospitals in Bengaluru improve their water use efficiency and reduce their dependence on groundwater supplies. Using the AquaGen System, an end-to-end AI and IoT-based water management solution, the project monitors real-time water usage, infrastructure inefficiencies, and energy consumption. By addressing leaks and reducing water waste in laundry facilities, residential areas, and cooling towers, the hospitals aim to cut water consumption by 50%. The system also enhances the performance of existing rainwater harvesting and wastewater treatment structures, providing a scalable model for other high-demand facilities.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -1226,8 +1159,6 @@ Luis Enrique Guerrero, a grain producer growing crops like corn, beans, and sorg
 
 Luis has already realized water savings after starting to use irrigation gates and tubing systems through the project. The adoption of these types of technologies supports sustainable, climate-smart agricultural practices that enhance community water supply resilience.
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -1270,9 +1201,6 @@ This process is estimated to produce 60,000 cubic meters of clean water annually
 
 In FY24, we added seven new projects, bringing our access portfolio to 13 initiatives that when fully implemented will serve over 1.6 million people.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Expanding clean water access continued
@@ -1309,9 +1237,6 @@ Local resident of Curacaví
 
 Learn more about our water access and replenishment projects here.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -1344,8 +1269,6 @@ In 2024, Microsoft launched a new datacenter design that optimizes AI workloads 
 
 Our newest datacenter designs go even further by targeting cooling directly to the source of heat. To-chip liquid cooling applies cooling liquid directly to the chips in servers. Unlike traditional systems, it does not rely on evaporating the liquid and recycles water through a closed loop. Once filled during construction, the system continuously circulates water between the servers and chillers, dissipating heat without requiring additional water.
 
-
-
 2025 Environmental Sustainability Report
 
 # Improving efficiency and reducing water use continued
@@ -1369,8 +1292,6 @@ To minimize reliance on freshwater from municipal water systems, Microsoft emplo
 # Quincy, Washington
 
 In Quincy, Washington, we partnered with the local municipality to build the Quincy Water Reuse Utility, recycling cooling water, reducing Microsoft’s potable water use in the region by 97%, and providing 1.5 million cubic meters of water annually for community drinking water needs.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -1414,8 +1335,6 @@ Efforts to improve water efficiency extend beyond our datacenters to our campuse
 
 We use primary data to calculate water withdrawal and consumption volumes. We use estimates where primary data is not available. Starting in FY24, reported values incorporate an updated approach based on water use efficiency metrics to estimate how much we withdraw and consume for datacenter locations where data actuals are not available, as outlined in the methodology section of our Data Fact Sheet. Prior years were not adjusted to reflect this change due to data availability limitations. Find out more in our Data Fact Sheet.
 
-
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -1447,7 +1366,6 @@ Improving monitoring and evaluation. As we continue our journey to become water 
 Using AI to protect freshwater in high stress priority basins. We continue to look for opportunities to use AI to mitigate water challenges across the globe. This includes funding replenishment projects that use AI, assisting the organizations leading this work, and directly supporting groups using AI to drive meaningful impact.
 
 Together, these technologies will help optimize energy and water use while enabling sustainable growth in cloud and AI services and paving the way for a more water-efficient future. As we approach 2030, we are now laser focused on innovation and scale for our water program. We will launch datacenters that will require zero water for cooling to minimize impacts on freshwater resources as we grow, increase procurement of alternative sources of water to reduce our dependence on freshwater resources, and continue partnering with organizations to develop, pilot, and scale first of their kind replenishment projects in high stress priority locations across the globe.
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1502,8 +1420,6 @@ This approach prioritizes waste prevention, robust reuse operations, and transpa
 
 Page 39
 
-
-
 2025 Environmental Sustainability Report
 
 # Our approach continued
@@ -1518,9 +1434,6 @@ Page 39
 |            | Sustainable product packaging                                                                                                                                  | By the end of 2025, we plan to eliminate single-use plastics in all Microsoft primary product packaging. Additionally, by 2030, we aim to design all Microsoft product packaging to be 100% recyclable in OECD countries. | On our way to eliminating single-use plastics in Microsoft product packaging by the end of 2025, we achieved a usage rate of 4.0% single-use plastics across Microsoft’s product packaging portfolio in FY24. In the same year, we used 53.8% recycled content in our product packaging and achieved a packaging recyclability rate of 94.8%.                                   |
 |            | Increasing circularity of our products                                                                                                                         | Designing in recycled content and improving device repairability, and improving data quality of device recycling.                                                                                                         | Our Surface Copilot+ PCs now feature 100% recycled aluminum alloy in the enclosures, and 100% recycled rare earth metals in magnets. Our new devices are some of the most repairable laptops and tablets in the industry, hosting at least 11 replacement components. The new Surface Pro 11th Edition and Laptop 7th Edition achieved an 8/10 repairability score from iFixit. |
 |            | Innovating cloud packaging                                                                                                                                     | Increasing circularity of cloud packaging                                                                                                                                                                                 | We are focused on advancing sustainable cloud packaging to minimize waste. In 2024, we began to reduce the hard-to-recycle plastic-based expanded polyethylene (EPE) foam in cloud hardware packaging, replacing it with more recyclable paper and pulp alternatives. We also diverted over 2,500 metric tons of packaging waste from landfills.                                |
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1550,21 +1463,19 @@ The progress we’ve made toward our zero waste commitments is underpinned by ro
 
 # Waste Table 1
 
-|          | Diverted |          | Non-diverted        |            |             |               |              |   |       |
-| -------- | -------- | -------- | ------------------- | ---------- | ----------- | ------------- | ------------ | - | ----- |
-| A Reduce |          | B Reused | C Reused (off-site) | D Recycled | E Composted | F Incinerated | G Landfilled |   |       |
-|          | FY20     |          |                     |            |             |               |              |   | 82.2% |
-|          | FY21     |          |                     |            |             |               |              |   | 80.7% |
-| FY22     |          |          |                     |            |             |               |              |   | 84.9% |
-|          | FY23     |          |                     |            |             |               |              |   | 82.0% |
-|          | A        | B        | C                   | D          | E           | F             |              | G |       |
-|          | FY24     |          |                     |            |             |               |              |   | 88.1% |
+|          | Diverted |          | Non-diverted        |            |             |               |              |     |       |
+| -------- | -------- | -------- | ------------------- | ---------- | ----------- | ------------- | ------------ | --- | ----- |
+| A Reduce |          | B Reused | C Reused (off-site) | D Recycled | E Composted | F Incinerated | G Landfilled |     |       |
+|          | FY20     |          |                     |            |             |               |              |     | 82.2% |
+|          | FY21     |          |                     |            |             |               |              |     | 80.7% |
+| FY22     |          |          |                     |            |             |               |              |     | 84.9% |
+|          | FY23     |          |                     |            |             |               |              |     | 82.0% |
+|          | A        | B        | C                   | D          | E           | F             |              | G   |       |
+|          | FY24     |          |                     |            |             |               |              |     | 88.1% |
 
 Starting in FY24, the reported values now include the weight of reduction and on-site reuse in addition to off-site reuse which was reported in prior years. The weight associated to on-site reuse and reduction represents the impact from our waste prevention activities as disclosed and defined in the Data Fact Sheet. With respect to this waste diversion target, the inclusion of on-site reuse and reduction directly affects the diversion percentage alongside our off-site reuse, recycling, and compost activities. Find out more in our Data Fact Sheet.
 
 41
-
-
 
 2025 Environmental Sustainability Report
 
@@ -1607,9 +1518,6 @@ In 2024, our campuses made progress toward our target of diverting 90% of our op
 
 In many of our datacenters, washable pre-filters have been implemented to extend the lifespan of our primary filters. When these pre-filters accumulate sufficient particulate buildup, they are removed, washed, and redeployed in our datacenters. Each filter can be reused for multiple years, which reduces waste compared to a disposable alternative.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Reducing waste at our campuses and datacenters continued
@@ -1624,19 +1532,16 @@ LinkedIn contributed to our zero waste achievements by advancing waste reduction
 
 # PROGRESS TOWARDS TARGETS
 
-|              | A | B                       |
-| ------------ | - | ----------------------- |
-| FY20         |   | 86.7%                   |
-| FY21         |   | 76.0%                   |
-| FY22         |   | 82.0%                   |
-| FY23         |   | 89.4%                   |
-| FY24         |   | 90.9%                   |
-| Current year |   | Target exceeded by 0.9% |
+|              | A   | B                       |
+| ------------ | --- | ----------------------- |
+| FY20         |     | 86.7%                   |
+| FY21         |     | 76.0%                   |
+| FY22         |     | 82.0%                   |
+| FY23         |     | 89.4%                   |
+| FY24         |     | 90.9%                   |
+| Current year |     | Target exceeded by 0.9% |
 
 Find out more in our Data Fact Sheet
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1670,9 +1575,6 @@ All new cloud hardware programs must meet minimum recycled content requirements 
 
 | 91% | Circular Centers have achieved | 91% reuse and recycling in FY24— | exceeding our 2025 target ahead | of schedule. |
 | --- | ------------------------------ | -------------------------------- | ------------------------------- | ------------ |
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1720,8 +1622,6 @@ Looking ahead, efforts will focus on addressing difficult-to-eliminate packaging
 
 Find out more in our Data Fact Sheet
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -1750,9 +1650,6 @@ Repairability is a key priority for both Surface devices and Xbox consoles, driv
 
 Since 2020, we have been systematically phasing out single-use plastics in our packaging, and recyclability has been prioritized. In 2024, Surface Copilot+ PCs were introduced with the most sustainable device packaging to date, designed to use less material and minimize plastic content. In line with our targets, we continue to eliminate single-use plastics and improve the recyclability of packaging for all products.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Improving device and packaging circularity continued
@@ -1765,13 +1662,13 @@ In FY24 we achieved a rate of 4.0% single-use plastics across all Microsoft prod
 
 # Single use plastics
 
-| Year | Single-use plastic by weight | Target |   |
-| ---- | ---------------------------- | ------ | - |
-| FY20 | 5.7%                         | 2030   |   |
-| FY21 | 4.7%                         |        |   |
-| FY22 | 3.3%                         |        |   |
-| FY23 | 2.7%                         |        |   |
-| FY24 | 4.0%                         |        |   |
+| Year | Single-use plastic by weight | Target |     |
+| ---- | ---------------------------- | ------ | --- |
+| FY20 | 5.7%                         | 2030   |     |
+| FY21 | 4.7%                         |        |     |
+| FY22 | 3.3%                         |        |     |
+| FY23 | 2.7%                         |        |     |
+| FY24 | 4.0%                         |        |     |
 
 In 2024, supplier collaborations further strengthened partnerships for circular design. Accurate data and strong supplier collaborations are essential to advancing circularity in devices. Microsoft worked with 82 supplier factories to achieve waste diversion rates of 90% or higher in the manufacturing process. Among these, 25 factories obtained UL 2799 Zero Waste to Landfill certification, and 57 factories passed the Responsible Sourcing annual waste data validation. Together, these efforts diverted more than 100,000 metric tons of waste from landfills or incineration.
 
@@ -1780,9 +1677,6 @@ In 2024, supplier collaborations further strengthened partnerships for circular 
 The collection of materials destined for recycling can have both environmental and social impacts. Our responsible sourcing criteria for recycled materials utilizes a third-party certification scheme that verifies the percentage of recycled content and assesses responsible sourcing practices at collection and processing sites. Five Surface products launched in FY24 are manufactured using recycled aluminum certified by the UL 2809 standard, which assesses labor safety, community impacts, and environmental contributions. These efforts reduce reliance on mining, minimizing its associated social and environmental impacts.
 
 Find out more in our Data Fact Sheet.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1798,10 +1692,7 @@ Expanding funding opportunities. To drive progress in circularity, Microsoft is 
 
 Building on analytical insights. Data is central to the success of our waste programs and identifying opportunities for improvement. By maintaining high quality data governance and refining our methodologies, we ensure our approaches remain aligned with best business practices and regional realities. Combining quantitative data with qualitative insights from our regional operators allows us to make informed investments and advance our zero waste commitments.
 
-Microsoft sustainability  Carbon  Water  Waste  Ecosystems  Customer sustainability  Global sustainability  Appendix
-
-
-
+Microsoft sustainability Carbon Water Waste Ecosystems Customer sustainability Global sustainability Appendix
 
 # 2025 Environmental Sustainability Report
 
@@ -1847,8 +1738,6 @@ As of FY24, Microsoft has contracted to protect 17,439 acres of land, and 15,849
 
 Find out more in our Data Fact Sheet.
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -1889,9 +1778,6 @@ As these efforts expand, we are committed to aligning our datacenter development
 
 In North Holland, our datacenter ecosystem restoration project has entered its next phase, focusing on soil remediation and the introduction of diverse plant species to foster year-round biodiversity. These efforts are creating thriving habitats for birds, insects, and other wildlife, demonstrating how datacenters can actively contribute to ecological health.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -1924,9 +1810,6 @@ Microsoft’s collaboration with the Root-Pike Watershed Initiative Network (Roo
 In addition to Lamparek Creek, broader urban habitat restoration efforts in Racine County focus on creating green corridors, revitalizing degraded land, and increasing access to natural spaces. Education and outreach initiatives empower residents to sustain these benefits over time, connecting communities to restored ecosystems and fostering long-term stewardship. Together, these projects reflect Microsoft’s holistic approach to ecological restoration, aligning local priorities with broader sustainability goals.
 
 51
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -1992,9 +1875,6 @@ Since the partnership’s inception in 2022, 26 restoration projects have been c
 
 Microsoft is collaborating with the Society for Ecological Restoration to promote white stork wetland restoration in southern Sweden. Once nearly extinct in the region, the white stork is now thriving thanks to a collaborative effort that restored vital wetland habitats. These wetlands not only provide essential breeding grounds for the stork but also support a wide range of species, improve water filtration, and enhance flood resilience.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Advancing conservation through technology
@@ -2016,8 +1896,6 @@ The Salish Sea, a vast marine ecosystem near Microsoft’s headquarters in the P
 At the heart of this effort is the ROV Nereo, a remotely operated vehicle (ROV) that gathers data to inform kelp restoration. Named after the scientific name for bull kelp (Nereocystis luetkeana), the ROV Nereo is a small, maneuverable device capable of diving 100 meters and transmitting live video and data. Researchers use Xbox controllers to navigate through dense kelp ecosystems in Elliott Bay, enabling precise exploration and analysis.
 
 The aquarium is expanding the program through collaborations with the Tulalip Tribes Natural Resources Shellfish Program, state agencies, and Reef Check to establish additional ROV programs and evaluate environmental monitoring strategies. This initiative enhances marine research and inspires future conservationists. By using accessible tools like Xbox controllers, the aquarium shows how technology can make environmental science engaging and approachable. Through education and outreach, the program fosters appreciation for kelp forests and the marine life they support, strengthening community connections to these ecosystems.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -2051,9 +1929,6 @@ Through the Microsoft AI for Good Lab, Microsoft is supporting researchers world
 | Accessible through platforms like GitHub and Hugging Face, Pytorch Wildlife is designed for users with limited technical expertise. Its modular codebase simplifies customization and enables broader adoption of AI-driven biodiversity monitoring solutions. | The Microsoft computer vision workflow isolates the giraffe in images, applies object detection to focus on the torso, and uses a matching algorithm to identify existing giraffes or assign IDs to new ones.                                                                                                                                                                   | This AI-enabled process reduces image analysis from hours to minutes, allowing WNI to process a library of 50,000 images with timely data to monitor population efficiently. |
 | By analyzing more than 100,000 sounds with over 80% reliability in species identification, the project enables rapid response to ecological shifts, improving stewardship of the Amazon.                                                                       | The insights generated guide conservation strategies and ensure timely interventions to protect this endangered species.                                                                                                                                                                                                                                                        |                                                                                                                                                                              |
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Advancing conservation through technology continued
@@ -2078,9 +1953,6 @@ Investments in cutting-edge technologies, including AI and platforms like the Pl
 
 56
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Customer sustainability
@@ -2099,8 +1971,6 @@ In this section
 
 Microsoft is committed to providing innovative technology to help build a more sustainable world. We’re working to empower our customers and partners across industries with Microsoft for Sustainability, by continuously innovating AI solutions that help accelerate climate technologies. We’re also advancing greener software and reducing carbon intensity to improve device sustainability, and helping organizations to measure and manage the health of the planet’s natural ecosystems with the Microsoft Planetary Computer.
 
-
-
 2025 Environmental Sustainability Report
 
 # Microsoft for Sustainability:
@@ -2116,9 +1986,6 @@ In Sustainability Manager, customers can now undertake deeper analysis, identify
 Customers using Microsoft for Sustainability can embed sustainability into their core operations and decision-making, uncover new efficiencies, optimize supply chains, advance research and materials innovation, build business resilience, and differentiate in the market. Microsoft’s solution ecosystem empowers customers to scale these efforts with confidence and agility.
 
 In 2024, we also released sustainability data solutions in Microsoft Fabric, helping organizations to centralize their data estate for deeper ESG analysis within a single, AI-powered platform for advanced analytics and reporting insights. Fabric has AI ingrained at every level to unlock data intelligence and actionable insights for faster progress.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2152,9 +2019,6 @@ Kyle Reissner, VP of Product Management, ICONICS
 
 59
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -2181,7 +2045,6 @@ Carbon optimization in Azure empowers Azure developers and IT professionals with
 The general availability of purpose virtual machines on Azure allows users to deal with memory state, enabling energy and resource savings by pausing workloads during idle periods. Together, these innovations can help customers align their cloud infrastructure with sustainability goals, maximizing efficiency and minimizing environmental impact.
 
 # Microsoft Azure
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2221,8 +2084,6 @@ To better support developers, whether they’re just starting out or seasoned pr
 
 There are over 150 million developers on GitHub, including a thriving open-source software community focused on climate technology. Check out the 10 best tools to help lower your carbon footprint.
 
-
-
 2025 Environmental Sustainability Report
 
 # Overview
@@ -2252,9 +2113,6 @@ Microsoft has also focused on proofs of concepts (POCs) that help prioritize sus
 Another POC uses GitHub Copilot to create an extension that suggests greener coding practices in the software integrated development environment (IDE). These innovations encourage developers to account for carbon costs early in the development process and foster sustainability from the outset.
 
 Determining whether AI is truly necessary to achieve a desired outcome is another critical aspect of sustainable development. Responsible deployment of AI ensures that resources are used judiciously, focusing on scenarios where AI creates meaningful, innovative impact, allowing developers to balance the transformative potential of AI with its resource demands.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2290,8 +2148,6 @@ Our Surface Copilot+ PCs now feature:
 
 - 100% recycled aluminum alloy in the enclosures
 - 100% recycled rare earth metals in magnets.⁸
-
-
 
 2025 Environmental Sustainability Report
 
@@ -2333,9 +2189,6 @@ With repairable products, both repair instructions and the availability of spare
 
 The new Surface Pro 11ᵗʰ Edition and Laptop 7ᵗʰ Edition achieved an 8/10 repairability score from iFixit.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Gaming:
@@ -2353,10 +2206,7 @@ In addition to these software-based tools, we have improved the energy efficienc
 
 In 2023, Xbox became the first console platform to release dedicated energy consumption and carbon emissions measurement tools designed specifically for game creators. These tools, developed in collaboration with studios, provide dashboards, case studies, Certification lab analysis, and telemetry data to help developers understand the energy impact of their games and identify opportunities for improvement. With the electricity powering Xbox devices being a major contributor to greenhouse gas emissions, these tools have empowered our developer partners to implement energy-saving measures that are often imperceptible to players but significant in reducing emissions.
 
-Overview  Microsoft sustainability  Carbon  Water Waste  Ecosystems  Customer sustainability  Global sustainability  Appendix
-
-
-
+Overview Microsoft sustainability Carbon Water Waste Ecosystems Customer sustainability Global sustainability Appendix
 
 # 2025 Environmental Sustainability Report
 
@@ -2389,9 +2239,6 @@ Halo Studios achieving energy efficiency gains in Halo Infinite with 2.5D implem
 Activision Publishing enhancing efficiency in the Call of Duty franchise by optimizing multiplayer lobbies and in-game menus.
 Mojang Studios delivering notable efficiency improvements in Minecraft through a new frame rate limiter feature.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Gaming continued
@@ -2406,8 +2253,6 @@ Since 2020, we’ve expanded our scope by exploring how digital engagement can t
 - Rooted Together, an interactive map where players based ecosystem in-game, while helping The Nature Conservancy to restore and protect 66,000 mangrove trees.
 
 ¹⁷ Reference to the partnership with Conservation International.
-
-
 
 # Overview
 
@@ -2443,7 +2288,6 @@ Minecraft recently partnered with The Nature Conservancy to debut a new world ca
 
 Urban Miner, boosting in-store e-waste recycling by 13.8% and recycling 12 metric tons of gadgets with Xbox and Elkjøp Nordic.
 
-
 # Overview
 
 # Microsoft sustainability
@@ -2475,9 +2319,6 @@ Our planet’s future is full of hope; sometimes we just need to see it to belie
 Visions of Nature highlights both the damage humans have caused and the possibilities for recovery. Developed in partnership with SAOLA Studio and NHM researchers, the experience features eight ecosystems that showcase how human innovation and nature’s inherent adaptability can help us heal from today’s environmental crises. Using Microsoft mixed reality headsets, visitors are transported 100 years into the future to explore a transformed planet inhabited by wildlife like colugos, secretary birds, cuttlefish—and even humans—demonstrating extraordinary resilience and transformation.
 
 Visions of Nature opened in October 2024 and will run until October 2026.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2514,8 +2355,6 @@ Today, the Planetary Computer hosts over 50 petabytes of Earth observation and s
 Supported by Microsoft, the Howden Resilience Laboratory uses Planetary Computer data, including ERA5 historical atmospheric data and CMIP6 climate projections, to assess climate risks to critical infrastructure. By integrating this data with machine learning models, Howden and Microsoft deliver customer-centric analytical tools to drive investment in resilience and mitigate risks to financial goals and asset insurability.
 
 70
-
-
 
 2025 Environmental Sustainability Report
 
@@ -2567,9 +2406,6 @@ In this section
 - Shaping policy for a sustainable future 81
 - Scaling impact through green skilling 85
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Overview
@@ -2607,9 +2443,6 @@ Moving forward, we will focus on invest-to-procure strategies that have proven t
 $793 million
 CIF has allocated over $793 million in capital to bring new supply to market and accelerate adoption and cost reduction in key target technologies.
 
-
-
-
 # Overview
 
 # Microsoft sustainability
@@ -2637,8 +2470,6 @@ CIF has allocated over $793 million in capital to bring new supply to market and
 | Eavor                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Climate Asset Management                                                                                                                                                                                                                                                                                                                                                                                                                       | Cyclic Materials                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | SolarCycle                                                                                                                                                                                                                                                                                                                                                                                             | Terradot                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Eavor is developing a geothermal energy technology that can be deployed globally, providing baseload power and energy autonomy. This clean, reliable technology avoids potential ecological impacts associated with wind, solar, and mining materials for batteries. Eavor’s focus is on European combined heat and power (CHP) and western US electricity generation markets, and has strong alignment with Microsoft’s datacenter electricity needs. | The Climate Asset Management (CAM) Nature Based Carbon Fund (NBCF) is a $455 million fund focused on investing in nature-based solutions which restore and conserve ecosystems to sequester greenhouse gas emissions and support biodiversity and local communities. NBCF is managed by Climate Asset Management, a joint venture between HSBC Asset Management and Pollination, that has raised over $1 billion to invest in natural capital. | Cyclic Materials is revolutionizing the way we approach circularity by enabling the continuous reuse and recycling of critical minerals, reducing waste and environmental impact, and enabling supply chain resilience. By repurposing rare earth elements and base metals at the end of their life-cycle, valuable resources are not lost but instead re-enter the production cycle. With a scalable hub-and-spoke model, Cyclic Materials aims to meet the growing global demand for critical minerals, particularly for electric vehicles, wind turbines, and datacenters, while maintaining a low carbon footprint and zero waste. | SolarCycle is a leading solar panel recycler in the United States, using proprietary recycling equipment to automate the recycling process and recover over 90% of solar panel materials. The company offers a vertically integrated platform that includes logistics for collecting panels, recycling them, and manufacturing and selling extracted materials like copper and silicon for new panels. | Terradot exemplifies Microsoft’s investment in using AI and data-driven solutions for sustainability. By integrating vast datasets collected from plant tissues, soils, pore water, ground water, and climate models, Terradot’s advanced data platform will enhance the ability to understand and manage Earth’s natural systems to capture carbon dioxide from the atmosphere. |
-
-
 
 2025 Environmental Sustainability Report
 
@@ -2679,9 +2510,6 @@ By combining industry expertise, student engagement, and Microsoft’s commitmen
 
 The 2024 challenge received 78 applications, with nine finalists pitching their ideas to a panel of judges. Six winners—C-Crete Technologies, Carbon Upcycling Technologies, Néolithe, Woodoo, FROOT, and Made of Air—were selected for their groundbreaking solutions. This collaboration exemplifies Microsoft’s dedication to advancing decarbonization in the built environment while fostering global innovation in traditionally underrepresented sectors.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Investing in innovation continued
@@ -2705,9 +2533,6 @@ Looking ahead, CIF’s strategy will focus on scaling climate technologies as pa
 $3.3 billion
 
 CIF’s $793 million in commitments has catalyzed over $3.3 billion in follow-on funding.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2745,8 +2570,6 @@ These collaborations have deepened Microsoft’s understanding of AI as both a d
 # Accelerating Sustainability with AI: Innovations for a Better Future
 
 Download our 2025 update and progress report on the playbook.
-
-
 
 2025 Environmental Sustainability Report
 
@@ -2794,9 +2617,6 @@ Aurora, Microsoft’s cutting-edge AI foundation model for environmental forecas
 
 Collaborating with the Massachusetts Institute of Technology and Atmospheric and Environmental Research, Microsoft has developed an adaptive bias correction framework that uses machine learning to systematically correct errors in dynamical forecasts, enhancing forecasts two to six weeks in advance. This tool significantly improves predictions, helping water managers allocate assets efficiently, enabling early wildfire prevention, and reducing the human and economic costs of extreme events like droughts and floods.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Charting new frontiers in AI innovation continued
@@ -2829,9 +2649,6 @@ These advancements have led to a functional printed circuit board prototype that
 
 79
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Charting new frontiers in AI innovation continued
@@ -2863,9 +2680,6 @@ In collaboration with the International Water Management Institute, Microsoft ha
 Microsoft is pushing the boundaries of AI to tackle the world’s most pressing environmental challenges. By empowering governments, businesses, and communities with transformative tools, such as the Accelerating Sustainability with AI playbook and innovations in biodiversity, ecosystem, and carbon monitoring, Microsoft is driving meaningful action toward a more sustainable future for all.
 
 80
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2914,8 +2728,6 @@ As Microsoft’s business grows, we are strengthening our policy engagement in t
 
 Page 81
 
-
-
 2025 Environmental Sustainability Report
 
 # Shaping policy for a sustainable future continued
@@ -2950,8 +2762,6 @@ In Europe, we advocated for coordinated implementation of the Energy Efficiency 
 
 Access to carbon-free electricity is critical to reach our 2030 carbon negative goal, both for reducing the Scope 2 footprint from our own operations and for reducing the Scope 3 footprint from our suppliers. However, the power system presents a bottleneck, including limits to grid availability to physically connect new carbon-free electricity generation sources, limits to grid capacity to transport carbon-free power (particularly from intermittent renewable energy sources), and limits to the speed at which requisite new policy, technology, and finance can be rolled out. Nevertheless, AI also presents a significant opportunity to help solve these challenges.
 
-
-
 2025 Environmental Sustainability Report
 
 # Shaping policy for a sustainable future continued
@@ -2969,9 +2779,6 @@ Microsoft is continuing to drive progress towards our 2030 commitments, includin
 In the European Union, we are supporting work on the upcoming revision of the Waste of Electrical and Electronic Equipment Directive and advocating for the harmonization of legislation with proportionate collection targets. In 2024, Microsoft signed on as a founding member of the WateReuse Association’s Coalition for Water Recycling, a group of companies looking to support the adoption and expansion of water reuse across the United States. In January 2024, Microsoft published the Sustainability Policy Alignment: US Trade Associations report to help us evaluate how our trade associations align with our sustainability goals, and to identify potential areas of collaboration or misalignment.
 
 We also support the European Union Green Claims Directive’s ambition to make environmental claims and labels more reliable, transparent, and independently verified in the European Union.
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -2999,10 +2806,7 @@ All these applications, and others, will help significantly accelerate the energ
 
 Global sustainability
 
-Carbon  Water  Waste  Ecosystems  Customer sustainability
-
-
-
+Carbon Water Waste Ecosystems Customer sustainability
 
 # 2025 Environmental Sustainability Report
 
@@ -3034,9 +2838,6 @@ LinkedIn also supports sustainability nonprofits by helping them connect with co
 
 Beyond LinkedIn’s platform, strategic partnerships are expanding equitable access to green job opportunities worldwide. Programs like GRID Alternatives upskill individuals from underrepresented backgrounds for careers in the solar industry. In 2024, GRID installed more than 4 MW of solar across 800+ projects, benefitting more than 1,040 families and generating lifetime savings exceeding $20 million. LinkedIn also supports organizations like IPÊ (Institute for Ecological Research) in Brazil, which empowers eco-entrepreneurs to conserve the Amazonian rainforest, and Bush Heritage Australia, which works to protect native ecosystems, in partnering with Aboriginal Traditional Custodians and other landholders.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Scaling impact through green skilling continued
@@ -3065,9 +2866,6 @@ Read the report at economicgraph.linkedin.com/research/green-skills
 
 86
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Appendix
@@ -3082,9 +2880,6 @@ Read the report at economicgraph.linkedin.com/research/green-skills
 88
 
 89
-
-
-
 
 # 2025 Environmental Sustainability Report
 
@@ -3129,9 +2924,6 @@ The Environmental, Social, and Public Policy Committee of Microsoft’s Board of
 
 This report includes estimates, projections, and other “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, section 27A of the Securities Act of 1933, and section 21E of the Securities Exchange Act of 1934. These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “target,” “efforts,” “goal,” “tactic,” “roadmap,” “commitment,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions.
 
-
-
-
 # 2025 Environmental Sustainability Report
 
 # Appendix B
@@ -3155,8 +2947,6 @@ Microsoft acknowledges that CFE is already modeled in the regional grid mixes fr
 13. The baseline (no interventions) scenario models the same product without any sustainability interventions in the production phase of the device: (a) no additional renewable energy in the supply chain beyond what production volumes.
 
 89
-
-
 
 2025 Microsoft Environmental Sustainability Report
 Stay up to 3 date on our progress
